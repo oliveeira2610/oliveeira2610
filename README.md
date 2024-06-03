@@ -12,7 +12,9 @@ Sou um profissional técnico em Análise e Desenvolvimento de Sistemas formado p
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oliveeira2610&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeira2610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[<img src="https://hermes.dio.me/tracks/1fd7a7da-ba42-417c-a4de-2f0c2f0622b6.png" height="50"></a>](https://web.dio.me/track/decola-tech-avanade-net-developer?tab=path)
 ---
+
 [![](https://visitcount.itsvg.in/api?id=oliveeira2610&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
