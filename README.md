@@ -4,10 +4,60 @@ Sou um profissional técnico em Análise e Desenvolvimento de Sistemas formado p
 ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/eyrbhXHgXHKYZFDqAbww8CGLzlYmIb8l9zWD3IZHmI4%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/6560603)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/FviWG7zqkyrY7cCjCHeaf6nfyVpOjelrIOdu65triDw%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5697501)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5272077)
 
 ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5107142)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/4757337)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/4661276)
-
-<br><br>
-
-<br>Educação:<br>Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI<br>Análise de Requisitos: Aprendi a analisar requisitos funcionais e não funcionais para criar soluções de software que atendam às necessidades dos usuários.<br>Desenvolvimento de Software: Desenvolvi habilidades em programação, testes e manutenção de sistemas de software, seguindo as melhores práticas do mercado.<br>Projeto de Sistemas: Ganhei experiência na especificação e no design de sistemas, considerando aspectos de usabilidade e experiência do usuário.<br>HARDWARE E REDES: 62 horas<br>Hardware; Redes de computadores.<br><br>SISTEMAS OPERACIONAIS: 62 horas<br>Arquitetura dos sistemas operacionais; Sistema operacional código fechado; Sistemas operacional código aberto; Editor de texto; Planilha eletrônica.<br><br>LÓGICA DE PROGRAMAÇÃO: 40 HORAS<br>Lógica de Programação e Algoritmos; Software; Programação; Gestão do Tempo<br><br>VERSIONAMENTO: 16 horas<br>Metodologias de versionamento.<br><br>CODIFICAÇÃO PARA FRONT-END: 140 horas<br>Técnicas de levantamento de requisitos; User Experience (UX); User Interface (UI); Prototipagem; Linguagem de marcação; CSS; Frameworks; Linguagens de programação.<br><br>INTERAÇÃO COM APIs: 40 horas<br>Segurança da informação; Serviços server-side; Estrutura organizacional.<br><br>TESTE DE FRONT-END: 40 horas<br>Processo fundamental de teste; Planejamento de testes client-side; Conceitos fundamentais; Tipos de testes; Técnicas de testes; Automação de testes.<br><br>CODIFICAÇÃO BACK-END: 164 horas<br>Metodologias de desenvolvimento; Segurança da informação; Validação de sistemas; Implantação de sistemas; Melhoria contínua.<br><br>BANCO DE DADOS: 36 horas<br>Documentação técnica; Modelo entidade-relacionamento; Banco de dados; Linguagem de consulta de banco de dados; Segurança da informação.<br><br>DESENVOLVIMENTO DE APIs: 60 horas<br>API; Métodos de requisição HTTP; Padrão Model View Control (MVC); Linguagem de programação para APIs; Relações Institucionais verticais e horizontais.<br><br>TESTES DE BACK-END: 62 horas<br>Testes server-side; Processo fundamental de teste; Tipos de testes; Níveis de testes; Frameworks de teste em sistemas server-side; Práticas de testes.<br><br>BANCO DE DADOS EM APLICATIVOS MÓVEIS: 90 horas<br>Sistemas operacionais; Aplicativos; Recursos embarcados; Resolução de problemas.<br><br>CODIFICAÇÃO E TESTES DE APLICATIVOS MOBILE: 162 horas<br>Dispositivos móveis; Criação de interface; Recursos de hardware; APIs; Persistência de dados em dispositivos móveis; Consumo de RESTfull web servisse; Publicação do aplicativo.<br><br>METODOLOGIAS ÁGEIS: 12 horas<br>Requisitos do projeto; Manifesto Agile; Scrum; Autogestão.<br>	<br>PROJETOS: 214 horas<br>Qualidade de software; Metodologias de desenvolvimento; Metodologia de gerenciamento de projeto; Apresentação do projeto.<br>Projetos:<br>Projeto de Automação Industrial: Colaborei no desenvolvimento de um sistema de automação para otimizar processos industriais, integrando soluções de TI e TA com foco na Indústria 4.0.<br>Aplicativo Móvel para Gestão de Tarefas: Liderança técnica no desenvolvimento de um aplicativo móvel que auxilia na organização e no gerenciamento de tarefas pessoais e profissionais.<br>Conhecendo e Criando API’s: Conhecer API’s e aplicá las a projetos, exemplo, API climatempo, API via-cep, API CPF Light  <br>Cursos Complementares:<br>Engenharia de Software II: Aprofundei meus conhecimentos em metodologias ágeis e práticas de engenharia de software para desenvolver produtos de alta qualidade.<br>Desenvolvimento de Serviços e APIs: Aprendi a criar APIs robustas e escaláveis que permitem a integração eficiente entre diferentes sistemas e plataformas.<br><br><br><br>
+<br>
+<br>Educação:
+<br>Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI
+<br>Análise de Requisitos: Aprendi a analisar requisitos funcionais e não funcionais para criar soluções de software que atendam às necessidades dos usuários.<br>Desenvolvimento de Software: Desenvolvi habilidades em programação, testes e manutenção de sistemas de software, seguindo as melhores práticas do mercado.<br>Projeto de Sistemas: Ganhei experiência na especificação e no design de sistemas, considerando aspectos de usabilidade e experiência do usuário.
+<br>HARDWARE E REDES: 62 horas
+<br>Hardware; Redes de computadores.
+<br>
+<br>SISTEMAS OPERACIONAIS: 62 horas
+<br>Arquitetura dos sistemas operacionais; Sistema operacional código fechado; Sistemas operacional código aberto; Editor de texto; Planilha eletrônica.
+<br>
+<br>LÓGICA DE PROGRAMAÇÃO: 40 HORAS<br>Lógica de Programação e Algoritmos; Software; Programação; Gestão do Tempo
+<br>
+<br>VERSIONAMENTO: 16 horas
+<br>Metodologias de versionamento.
+<br>
+<br>CODIFICAÇÃO PARA FRONT-END: 140 horas
+<br>Técnicas de levantamento de requisitos; User Experience (UX); User Interface (UI); Prototipagem; Linguagem de marcação; CSS; Frameworks; Linguagens de programação.<br>
+<br>INTERAÇÃO COM APIs: 40 horas<br>Segurança da informação; Serviços server-side; Estrutura organizacional.
+<br>
+<br>TESTE DE FRONT-END: 40 horas
+<br>Processo fundamental de teste; Planejamento de testes client-side; Conceitos fundamentais; Tipos de testes; Técnicas de testes; Automação de testes.
+<br>
+<br>CODIFICAÇÃO BACK-END: 164 horas
+<br>Metodologias de desenvolvimento; Segurança da informação; Validação de sistemas; Implantação de sistemas; Melhoria contínua.
+<br>
+<br>BANCO DE DADOS: 36 horas
+<br>Documentação técnica; Modelo entidade-relacionamento; Banco de dados; Linguagem de consulta de banco de dados; Segurança da informação.
+<br>
+<br>DESENVOLVIMENTO DE APIs: 60 horas
+<br>API; Métodos de requisição HTTP; Padrão Model View Control (MVC); Linguagem de programação para APIs; Relações Institucionais verticais e horizontais.
+<br>
+<br>TESTES DE BACK-END: 62 horas
+<br>Testes server-side; Processo fundamental de teste; Tipos de testes; Níveis de testes; Frameworks de teste em sistemas server-side; Práticas de testes.
+<br>
+<br>BANCO DE DADOS EM APLICATIVOS MÓVEIS: 90 horas
+<br>Sistemas operacionais; Aplicativos; Recursos embarcados; Resolução de problemas.
+<br>
+<br>CODIFICAÇÃO E TESTES DE APLICATIVOS MOBILE: 162 horas
+<br>Dispositivos móveis; Criação de interface; Recursos de hardware; APIs; Persistência de dados em dispositivos móveis; Consumo de RESTfull web servisse; Publicação do aplicativo.
+<br>
+<br>METODOLOGIAS ÁGEIS: 12 horas
+<br>Requisitos do projeto; Manifesto Agile; Scrum; Autogestão.
+<br>
+<br>PROJETOS: 214 horas<br>Qualidade de software; Metodologias de desenvolvimento; Metodologia de gerenciamento de projeto; Apresentação do projeto.
+<br>Projetos
+<br>Projeto de Automação Industrial: Colaborei no desenvolvimento de um sistema de automação para otimizar processos industriais, integrando soluções de TI e TA com foco na Indústria 4.0.
+<br>Aplicativo Móvel para Gestão de Tarefas: Liderança técnica no desenvolvimento de um aplicativo móvel que auxilia na organização e no gerenciamento de tarefas pessoais e profissionais.
+<br>Conhecendo e Criando API’s: Conhecer API’s e aplicá las a projetos, exemplo, API climatempo, API via-cep, API CPF Light  
+<br>Cursos Complementares:
+<br>Engenharia de Software II: Aprofundei meus conhecimentos em metodologias ágeis e práticas de engenharia de software para desenvolver produtos de alta qualidade.<br>Desenvolvimento de Serviços e APIs: Aprendi a criar APIs robustas e escaláveis que permitem a integração eficiente entre diferentes sistemas e plataformas.
+<br>
+<br>
+<br>
+<br>
 
 
 ## 🌐 Socials:
