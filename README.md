@@ -9,7 +9,7 @@
 <br>
 <br>
 
-# Badges
+# 🏅Badges
 ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/eyrbhXHgXHKYZFDqAbww8CGLzlYmIb8l9zWD3IZHmI4%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/6560603)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/FviWG7zqkyrY7cCjCHeaf6nfyVpOjelrIOdu65triDw%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5697501)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/OT8k8pRRu%2ForDqpfuMIwyglzX14PyLPFHd2FNRS0Ifc%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5272077)
 
 ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/6QsPX5Wdg0eHWFed3ZKTbX2c88yVFGgaWPlYt%2BJdp4Q%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/5107142)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/SOUHCWvev6HmfC5QztXJd%2BCkSK8%2B3WGWg%2BF%2Fww%2FfqXA%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/4757337)ㅤㅤㅤ[<img src="https://cdn.qwiklabs.com/TbOoOcpQdNxRawSvSE3K5cbakxBmki8F%2FgjwN6yKY98%3D" height="150"></a>](https://www.cloudskillsboost.google/public_profiles/3192e5c2-c28d-4add-a8cd-5fe99c747b78/badges/4661276)
@@ -22,7 +22,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oliveeira2610&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeira2610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-#Grade curricular SENAI
+# Grade curricular SENAI
 <br>HARDWARE E REDES: 62 horas
 <br>Hardware; Redes de computadores.
 <br>
