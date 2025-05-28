@@ -1,7 +1,7 @@
 #                                                                     Bem vindo!
 
 # 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gabriel-de-oliveira-rodrigues-39b318276/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/bmpvidmh-the-sans) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-de-oliveira-rodrigues-pompeiasp/) [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/bmpvidmh-the-sans) 
 
 <br>Educação:
 <br>Curso Técnico em Análise e Desenvolvimento de Sistemas - SENAI
