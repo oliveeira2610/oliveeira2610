@@ -22,58 +22,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=oliveeira2610&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=oliveeira2610&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-# Grade curricular SENAI
-<br>HARDWARE E REDES: 62 horas
-<br>Hardware; Redes de computadores.
-<br>
-<br>SISTEMAS OPERACIONAIS: 62 horas
-<br>Arquitetura dos sistemas operacionais; Sistema operacional código fechado; Sistemas operacional código aberto; Editor de texto; Planilha eletrônica.
-<br>
-<br>LÓGICA DE PROGRAMAÇÃO: 40 HORAS<br>Lógica de Programação e Algoritmos; Software; Programação; Gestão do Tempo
-<br>
-<br>VERSIONAMENTO: 16 horas
-<br>Metodologias de versionamento.
-<br>
-<br>CODIFICAÇÃO PARA FRONT-END: 140 horas
-<br>Técnicas de levantamento de requisitos; User Experience (UX); User Interface (UI); Prototipagem; Linguagem de marcação; CSS; Frameworks; Linguagens de programação.<br>
-<br>INTERAÇÃO COM APIs: 40 horas<br>Segurança da informação; Serviços server-side; Estrutura organizacional.
-<br>
-<br>TESTE DE FRONT-END: 40 horas
-<br>Processo fundamental de teste; Planejamento de testes client-side; Conceitos fundamentais; Tipos de testes; Técnicas de testes; Automação de testes.
-<br>
-<br>CODIFICAÇÃO BACK-END: 164 horas
-<br>Metodologias de desenvolvimento; Segurança da informação; Validação de sistemas; Implantação de sistemas; Melhoria contínua.
-<br>
-<br>BANCO DE DADOS: 36 horas
-<br>Documentação técnica; Modelo entidade-relacionamento; Banco de dados; Linguagem de consulta de banco de dados; Segurança da informação.
-<br>
-<br>DESENVOLVIMENTO DE APIs: 60 horas
-<br>API; Métodos de requisição HTTP; Padrão Model View Control (MVC); Linguagem de programação para APIs; Relações Institucionais verticais e horizontais.
-<br>
-<br>TESTES DE BACK-END: 62 horas
-<br>Testes server-side; Processo fundamental de teste; Tipos de testes; Níveis de testes; Frameworks de teste em sistemas server-side; Práticas de testes.
-<br>
-<br>BANCO DE DADOS EM APLICATIVOS MÓVEIS: 90 horas
-<br>Sistemas operacionais; Aplicativos; Recursos embarcados; Resolução de problemas.
-<br>
-<br>CODIFICAÇÃO E TESTES DE APLICATIVOS MOBILE: 162 horas
-<br>Dispositivos móveis; Criação de interface; Recursos de hardware; APIs; Persistência de dados em dispositivos móveis; Consumo de RESTfull web servisse; Publicação do aplicativo.
-<br>
-<br>METODOLOGIAS ÁGEIS: 12 horas
-<br>Requisitos do projeto; Manifesto Agile; Scrum; Autogestão.
-<br>
-<br>PROJETOS: 214 horas<br>Qualidade de software; Metodologias de desenvolvimento; Metodologia de gerenciamento de projeto; Apresentação do projeto.
-<br>Projetos
-<br>Projeto de Automação Industrial: Colaborei no desenvolvimento de um sistema de automação para otimizar processos industriais, integrando soluções de TI e TA com foco na Indústria 4.0.
-<br>Aplicativo Móvel para Gestão de Tarefas: Liderança técnica no desenvolvimento de um aplicativo móvel que auxilia na organização e no gerenciamento de tarefas pessoais e profissionais.
-<br>Conhecendo e Criando API’s: Conhecer API’s e aplicá las a projetos, exemplo, API climatempo, API via-cep, API CPF Light  
-<br>Cursos Complementares:
-<br>Engenharia de Software II: Aprofundei meus conhecimentos em metodologias ágeis e práticas de engenharia de software para desenvolver produtos de alta qualidade.<br>Desenvolvimento de Serviços e APIs: Aprendi a criar APIs robustas e escaláveis que permitem a integração eficiente entre diferentes sistemas e plataformas.
-<br>
-<br>
-<br>
-<br>
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=oliveeira2610&icon=0&color=0)](https://visitcount.itsvg.in)
